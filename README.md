@@ -1,4 +1,5 @@
 # IT-Support-Ticket-Analysis---Excel
+![image alt](https://github.com/sudhanshu1012/IT-Support-Ticket-Analysis---Excel/blob/f7eb6e8eea1fae3006e6b7175295cdbb26454899/Dashboard_Photo.png)
 This repository contains an end-to-end data analysis project conducted entirely in Microsoft Excel. It analyzes 97,498 IT support tickets over a 5-year period (2016-2020) to evaluate helpdesk performance, measure agent efficiency, and provide actionable recommendations for process improvement.
 The final deliverable is a multi-tabbed, dynamic dashboard designed for management to track KPIs and support data-driven decisions.
   ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
