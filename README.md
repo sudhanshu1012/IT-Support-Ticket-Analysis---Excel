@@ -92,13 +92,15 @@ The project followed a structured data analysis workflow:
   ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
 # 📎 Repository Contents
 
-. IT_Tickets_Analysis_Dashboard.xlsx: The final interactive Excel dashboard.
+. IT_Tickets_Analysis_Dashboard_Excel_File.xlsx: The final interactive Excel dashboard.
 
-. IT_Ticket_Analysis.pptx: Executive summary presentation of findings and recommendations.
+. IT_Ticket_Analysis_PPT.pptx: Executive summary presentation of findings and recommendations.
 
-. IT_Ticket_Analysis_Task.docx: Detailed Q&A, methodology notes, and calculations.
+. Task_DOC_File.docx: Detailed Q&A, methodology notes, and calculations.
 
-. IT_Ticket_Dashboard .mp4: A preview video of the main dashboard.
+. Dashboard_Video.mp4: A preview video of the main dashboard.
+
+. Dashboard_Photo: A preview photo of main dashboard.
   ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
 # 📬 Author
 Sudhanshu Tiwari
